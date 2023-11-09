@@ -53,7 +53,6 @@
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-jsdoc": "30.7.6",
     "eslint-plugin-prefer-arrow": "1.2.2",
-    "IonicCordovaRTMPandHLS": "file:../../rtmp-hls-plugin",
     "jasmine-core": "~4.6.0",
     "jasmine-spec-reporter": "~5.0.0",
     "karma": "~6.4.0",
@@ -72,8 +71,7 @@
       "cordova-plugin-device": {},
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-ionic-webview": {},
-      "cordova-plugin-ionic-keyboard": {},
-      "cordova-plugin-ionicrtmphls": {}
+      "cordova-plugin-ionic-keyboard": {}
     },
     "platforms": [
       "android"
