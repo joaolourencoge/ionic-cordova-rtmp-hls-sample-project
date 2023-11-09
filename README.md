@@ -54,8 +54,6 @@ You can run the app on an Android device or emulator using the following command
 ionic cordova run android
 ```
 
-Please refer to the Ionic and Cordova documentation for more information on deploying your application on other platforms and devices.
-
 ## Running the App for iOS
 
 ```bash
@@ -63,6 +61,10 @@ ionic cordova build ios
 ```
 
 Open .xcworkspace file and run the app on an iOS device or simulator using XCode
+
+
+Please refer to the Ionic and Cordova documentation for more information on deploying your application on other platforms and devices.
+
 
 ## License
 
