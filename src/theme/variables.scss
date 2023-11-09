@@ -243,11 +243,15 @@ html {
   --ion-dynamic-font: var(--ion-default-dynamic-font);
 }
 
-.show-player,
-.show-camera {
+body.show-player,
+body.show-camera {
+  --ion-background-color: transparent;
+
   .nav-decor,
+    ion-tabs,
     ion-app,
     ion-content {
+        --ion-background-color: transparent;
         --background: transparent;
     }
 }
