@@ -56,4 +56,11 @@ export class Tab1Page {
     });
   }
 
+  requestPermissions() {
+    this.ionicRTMPandHLS.requestPermissions((res: any) => {
+      console.log('SUCCESS requestPermissions', res)
+    }, (err: any) => {
+      console.log('ERRR requestPermissions', err);
+    });
+  }
 }
