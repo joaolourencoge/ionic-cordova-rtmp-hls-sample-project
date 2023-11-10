@@ -28,12 +28,6 @@ This is a basic Ionic Cordova project that demonstrates how to integrate the `io
    ionic cordova platform add android
    ```
 
-5. Install the `ionic-cordova-rtmp-hls` plugin:
-
-   ```bash
-   ionic cordova plugin add ionic-cordova-rtmp-hls
-   ```
-
 ## Building for Android (Replace Android by iOS)
 
 If you want to build the sample project for Android, follow these steps:
